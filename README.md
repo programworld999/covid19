@@ -1,6 +1,6 @@
 # covid19
 
-### Online Console : [>python covid19.py](https://covid19.sarjsk.repl.run)
+### Online Console : [> python covid19.py](https://covid19.sarjsk.repl.run)
 ## Output :
 ```
 World Wide: Confirmed:  367151 | Active:  250938 | Death:  16166 | Recovered:  100047
